@@ -1,2 +1,2 @@
 # hello-world
-Kho lưu trữ này dùng để thực hành quy trình GitHub
+Xin chào! Tôi là Tâm ^^
